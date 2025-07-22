@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pankaj
-- 👀 I’m interested in "Data Analytics and Machine Learning"
-- 🌱 I’m currently learning "Operational Research at Delhi University"
+- 👀 I’m interested in "AI, Data Analytics and Machine Learning."
+- 🌱 I’m currently learning till my curiosity.
 - 💞️ I’m looking to collaborate on "Projects that Provide learnings and Intense about Analytics Domain"
 - 📫 How to reach me: Just Email- pankaj.du.or.24@gmail.com 
 
